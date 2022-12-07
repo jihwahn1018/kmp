@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Specification-Title: KMP Service
+Specification-Version: 0.0.1
+Specification-Vendor: TmaxCloud Inc.
+Implementation-Title: com.tmax.supervm
+Implementation-Version: build1
+Implementation-Vendor: TmaxCloud Inc.
+
